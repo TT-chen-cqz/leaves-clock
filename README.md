@@ -1,1 +1,1 @@
-# leaves-clock
+这是一个由 leaves 工作室创作的开源计时器。
