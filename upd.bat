@@ -1,6 +1,6 @@
 @echo off
 cd /d %~dp0 2>nul
-set link=https://tt-tools-upd.github.io/leaves/clock
+set link=https://hk.gh-proxy.org/https://github.com/TT-chen-cqz/leaves-clock/releases/download/leaves-clock
 mkdir %temp%\upd 1>nul 2>nul
 goto %1 2>nul
 :check
